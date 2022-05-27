@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.green{
+  color: green;
+  text-decoration: line-through;
+}
+.red{
+  color: red;
+}
+.container{
+  font-size: 25px;
+}
+.checkbox{
+  height: 20px;
+  width: 20px;
+}
